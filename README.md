@@ -87,7 +87,7 @@ Each resume has multiple parts:
 - [Job Experience](#job-experience)
 - [Interests](#interests)
 - [Education (optional)](#education)
-- [Projects (optional)](#education)
+- [Projects (optional)](#projects)
 - [Awards/Achievements (optional)](#awardsachievements)
 
 
