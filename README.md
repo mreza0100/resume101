@@ -38,7 +38,7 @@ When writing your resume, it's important to use capital letters appropriately. F
 2. Important Words: Avoid using all capital letters for important words or phrases within sentences. Instead, consider using other formatting options like underline or bold to highlight essential information.
 
 
-# Having Multiple Resumes
+## Having Multiple Resumes
 
 Developers can benefit from having multiple resumes when applying for different positions that require specific skill sets. If you are a full stack developer, it's recommended to have three separate resumes tailored to three different roles: front-end, back-end, and full stack.
 
@@ -48,7 +48,7 @@ By creating distinct resumes for each position, you can ensure that you present 
 
 Remember to carefully review and modify your summary and skills section for each resume, removing any non-relevant skills or experiences.
 
-# Tailoring Your Resume
+## Tailoring Your Resume
 
 Tailoring your resume for each job position is a highly effective strategy that increases your chances of getting noticed by recruiters and securing job interviews. Here are three key areas to focus on when tailoring your resume:
 
@@ -78,17 +78,17 @@ Remember, it's important to prioritize quality over quantity and ensure that eve
 
 Your LinkedIn profile should mirror your resume, serving as an online representation of your professional identity. Ensure that the information on your LinkedIn profile aligns with your resume, including your work experience, skills, and accomplishments. Keep your profile updated, engage with professional connections, and utilize LinkedIn's features to enhance your visibility and explore career opportunities.
 
-
+---
 
 # Structure
 Each resume has multiple parts:
-- [Head (including Summary/Objective)](#head-including-summaryobjective)
+- [Head (including Summary/Objective)](#Title)
 - [Skills](#skills)
 - [Job Experience](#job-experience)
 - [Interests](#interests)
-- [Education (optional)](#education-optional)
-- [Projects (optional)](#projects-optional)
-- [Awards/Achievements (optional)](#awardsachievements-optional)
+- [Education (optional)](#education)
+- [Projects (optional)](#projects)
+- [Awards/Achievements (optional)](#Awards/Achievements)
 
 
 # Title
