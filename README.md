@@ -87,8 +87,8 @@ Each resume has multiple parts:
 - [Job Experience](#job-experience)
 - [Interests](#interests)
 - [Education (optional)](#education)
-- [Projects (optional)](#projects)
-- [Awards/Achievements (optional)](#Awards/Achievements)
+- [Projects (optional)](#education)
+- [Awards/Achievements (optional)](#awardsachievements)
 
 
 # Title
@@ -244,7 +244,7 @@ Bad Examples:
 
 Remember, the Interests section provides an opportunity to showcase your unique personality and interests beyond the computer world. By including diverse and engaging activities, you can pique the curiosity of hiring managers and create a connection beyond technical qualifications.
 
-# Education (Optional)
+# Education
 
 In the Education section, include the following three parts:
 
