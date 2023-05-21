@@ -313,9 +313,3 @@ Bad Examples:
 - Won multiple coding competitions.
 - Achieved top grades in college.
 - Received Employee of the Month award.
-
-
-
-
-
-
