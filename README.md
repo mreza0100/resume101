@@ -1,4 +1,4 @@
-# resume101
+# Resume101
 Guide to crafting tailored resumes for job positions, optimizing summaries, skills, experiences, and achievements to increase visibility and success in Applicant Tracking Systems (ATS).
 
 # General Points To Consider
